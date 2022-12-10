@@ -8,3 +8,7 @@ My name is Bitcoin Brandini, and i enjoy the beach, programming, games. I love m
 1. Javascript
 2. Web development
 3. Git
+
+## What I've Done So Far
+
+- https://github.com/BitcoinBrandini
